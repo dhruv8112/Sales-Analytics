@@ -43,8 +43,6 @@
 ## 🛠 Tools & Techniques
 
 - Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly)
-- SQL for sales aggregation
-- Power BI/Tableau for interactive dashboards
 
 ## ✅ Outcomes
 
